@@ -1,2 +1,7 @@
-gcc -o rkall rkall.c
-./rkall "pattern" "text"
+1.gcc -o rkall rkall.c
+
+
+
+
+
+2) ./rkall "pattern" "text"
