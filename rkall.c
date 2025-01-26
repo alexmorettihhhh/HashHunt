@@ -56,3 +56,4 @@ int main(int argc, char *argv[]) {
     rabin_karp_search(pattern, text);
     return 0;
 }
+
